@@ -1,0 +1,326 @@
+.w900{
+    width: 900px;
+    margin: 0px auto;
+}
+.bg{
+    width: 100%;
+    height: 790px;
+    background: #dceaf5;
+    display: block;
+}
+.bg2{
+    height: 790px;
+    background: url("../images/zhuce.jpg") no-repeat;
+}
+.head{
+    height: 80px;
+    display: block;
+}
+.logo{
+    background: url("../images/zclogo.gif");
+    width: 118px;
+    height: 40px;
+    display: block;
+    float: left;
+    margin-top: 35px;
+}
+.logoright {
+    text-align: right;
+    float: right;
+    font-size: 12px;
+    font-family: 宋体;
+    color: white;
+    float: right;
+    margin-top: 55px;
+}
+.logoright a{
+    color: white;
+}
+.body{
+    width: 898px;
+    height: 639px;
+    border-color: #ff9000;
+    border-width: 2px 0px 0px;
+    border-style: solid;
+    background: white;
+    display: block;
+}
+.xinlang{
+    background: url("../images/langpeo.png") no-repeat;
+    width: 77px;
+    height: 110px;
+    position: absolute;
+    left: 1218px;
+    top: 102px;
+    z-index: 5;
+}
+.list{
+    width: 900px;
+    height: 40px;
+    display: block;
+    margin-top: 18px;
+}
+.list dt a{
+    width: 126px;
+    height: 38px;
+    font-size: 14px;
+    line-height: 38px;
+    color: #323232;
+    font-family: 微软雅黑;
+    display: block;
+    border: 1px solid #d9d9d9;
+}
+.p_1{
+     text-align: center;
+     margin-left: 20px;
+    margin-bottom: -1px;
+     float: left;
+ }
+.p_1 a:link{
+    border-bottom-color: #fafafa;
+}
+.p_1 a:active{
+    border-bottom-color: #fafafa;
+}
+.p_1 a:hover{
+    border-bottom-color: #fafafa;
+}
+.p_2{
+    text-align: center;
+    margin-left: 12px;
+    margin-right: 138px;
+    margin-bottom: -1px;
+    float: left;
+}
+.p_2 a:hover{
+    border-bottom-color: #fafafa;
+}
+.ph{
+    width: 605px;
+    height: 370px;
+    display: block;
+    overflow: hidden;
+}
+.phone{
+    width: 605px;
+    height: 319px;
+    border-style: solid;
+    border-width: 1px 1px 0px 0px;
+    border-color: #d9d9d9;
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: 14px;
+    color: black;
+    font-family: 宋体;
+    margin-top: 0px;
+    margin-bottom: 200px;
+}
+.phone_bg {
+    background: url("../images/zcphone.png") no-repeat;
+    width: 49px;
+    height: 48px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    float: left;
+}
+.phone input{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #cccccc;
+}
+.phone span{
+    color: red;
+    margin-right: 4px;
+}
+.phone ul{
+    list-style-type: none;
+    margin-left: 79px;
+}
+.phone h6{
+    margin-left: 81px;
+    font-size: 12px;
+    color: black;
+    line-height: 32px;
+}
+.phone h6 a{
+    color: #0a8cd2;
+    margin-right: 0px;
+}
+.phone li{
+    width: 385px;
+    height: 36px;
+}
+.checks{
+    margin-top: 15px;
+}
+.checks input{
+    width: 12px;
+    height: 12px;
+}
+.check{
+    margin-left: 85px;
+}
+.send_p{
+    margin-left: -28px;
+    margin-top: 15px;
+}
+.send_p input{
+    width: 158px;
+    height: 28px;
+    font-size: 12px;
+    color: #333333;
+    background: #f2f2f2;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
+.phone h5{
+    margin-top: 9px;
+}
+.phone h5 a{
+    font-size: 12px;
+    color: #0a8cd2;
+    font-family: 微软雅黑;
+    margin-left: 163px;
+}
+.email{
+    width: 605px;
+    height: 404px;
+    border-style: solid;
+    border-width: 1px 1px 0px 0px;
+    border-color: #d9d9d9;
+    padding-top: 40px;
+    padding-left: 30px;
+    margin-top: -1px;
+
+
+}
+.email_bg {
+    background: url("../images/zcemail.png") no-repeat;
+    width: 49px;
+    height: 48px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    float: left;
+}
+.nonee a{
+    width: 66px;
+    height: 15px;
+    background: url("../images/exc.png") no-repeat;
+    padding-left: 18px;
+    font-size: 12px;
+    color: #0a8cd2;
+}
+.email input{
+    width: 200px;
+    height: 30px;
+    border: 1px solid #cccccc;
+}
+.email span{
+    color: red;
+    margin-right: 4px;
+}
+.email ul{
+    list-style-type: none;
+    margin-left: 79px;
+}
+.email h6{
+    margin-left: 81px;
+    font-size: 12px;
+    color: black;
+    line-height: 32px;
+    margin-left: 85px;
+}
+.email h6 a{
+    color: #0a8cd2;
+    margin-right: 0px;
+}
+.email li{
+    width: 385px;
+    height: 36px;
+}
+.checks{
+    margin-top: 15px;
+}
+.checks input{
+    width: 12px;
+    height: 12px;
+}
+.check{
+    margin-left: 87px;
+}
+.send_e{
+    margin-top: 15px;
+    margin-left: 14px;
+}
+.send_e img{
+    margin-left: 4px;
+    margin-top: 15px;
+}
+.send_e a{
+    font-size: 12px;
+    color: #0a8cd2;
+}
+.email h5 {
+    margin-top: 16px;
+}
+.email h5 a{
+    font-size: 12px;
+    color: #0a8cd2;
+    font-family: 微软雅黑;
+    margin-left: 163px;
+}
+.send_e input{
+    width: 53px;
+    height: 30px;
+    border: 1px solid #cccccc;
+}
+.pro input{
+    width: 190px;
+    height: 40px;
+    border: 1px solid #7fc328;
+    background: #8cd232;
+    font-size: 14px;
+    color: white;
+    border-radius: 3px;
+    margin-left: 159px;
+    margin-top: 55px;
+}
+.zcright{
+    width: 239px;
+    height: 403px;
+    padding-left: 25px;
+    padding-top: 41px;
+    font-size: 14px;
+    color: black;
+    border-width: 1px 0px 0px 1px;
+    border-style: solid;
+    border-color: #dcdcdc;
+    margin-right: 30px;
+    margin-top: -370px;
+    float: right;
+}
+.zcright a{
+    font-size: 14px;
+    color: #0a8cd2;
+}
+.zcdown{
+    width: 869px;
+    height: 81px;
+    border-color: #dcdcdc;
+    border-style: solid;
+    border-width: 1px 0px 0px;
+    padding-left: 31px;
+    padding-top: 15px;
+    font-size: 12px;
+    color: #808080;
+    margin-top: 101px;
+}
+.zcdown p{
+    margin-bottom: 10px;
+}
+.zcdown a{
+    font-size: 12px;
+    color: #0a8cd2;
+}
